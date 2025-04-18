@@ -5,6 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+#dify-1.0.0转存
 langgenius/dify-api:1.0.0
 langgenius/dify-web:1.0.0
 postgres:15-alpine
