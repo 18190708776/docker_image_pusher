@@ -6,12 +6,22 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #dify-1.0.0转存
-langgenius/dify-api:1.0.0
-langgenius/dify-web:1.0.0
-postgres:15-alpine
-redis:6-alpine
-langgenius/dify-sandbox:0.2.10
-langgenius/dify-plugin-daemon:0.0.3-local
-ubuntu/squid:latest
-nginx:latest
-semitechnologies/weaviate:1.19.0
+#langgenius/dify-api:1.0.0
+#langgenius/dify-web:1.0.0
+#postgres:15-alpine
+#redis:6-alpine
+#langgenius/dify-sandbox:0.2.10
+#langgenius/dify-plugin-daemon:0.0.3-local
+#ubuntu/squid:latest
+#nginx:latest
+#semitechnologies/weaviate:1.19.0
+
+#dify-plus-1.2.0
+ccr.ccs.tencentyun.com/yfgaia/redis:6-alpine
+ccr.ccs.tencentyun.com/yfgaia/dify-sandbox:0.2.11
+ccr.ccs.tencentyun.com/yfgaia/dify-plugin-daemon:0.0.7-local
+ccr.ccs.tencentyun.com/yfgaia/dify-plus-api:1.2.0
+ccr.ccs.tencentyun.com/yfgaia/dify-plus-web:1.2.0
+ccr.ccs.tencentyun.com/yfgaia/postgres:15-alpine
+ccr.ccs.tencentyun.com/yfgaia/dify-plus-admin-web:1.2.0
+ccr.ccs.tencentyun.com/yfgaia/dify-plus-admin-server:1.2.0
