@@ -17,5 +17,4 @@
 #semitechnologies/weaviate:1.19.0
 
 #one-api
-ppcelery/one-api:arm64-latest
 ppcelery/one-api:latest
