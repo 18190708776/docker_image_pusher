@@ -39,6 +39,7 @@
 #semitechnologies/weaviate:1.19.0
 
 #dify-1.11.2转存
+busybox:latest
 langgenius/dify-api:1.11.2
 langgenius/dify-web:1.11.2
 #postgres:15-alpine
